@@ -1,0 +1,46 @@
+[
+  {
+    "name": "pytorch",
+    "url": "https://img.shields.io/badge/PyTorch-173948?style=for-the-badge&logo=pytorch&logoColor=83D4EA"
+  },
+  {
+    "name": "huggingface",
+    "url": "https://img.shields.io/badge/Hugging_Face-173948?style=for-the-badge&logo=huggingface&logoColor=83D4EA"
+  },
+  {
+    "name": "onnx",
+    "url": "https://img.shields.io/badge/ONNX-173948?style=for-the-badge&logo=onnx&logoColor=83D4EA"
+  },
+  {
+    "name": "mcp",
+    "url": "https://img.shields.io/badge/MCP-173948?style=for-the-badge"
+  },
+  {
+    "name": "python",
+    "url": "https://img.shields.io/badge/Python-24344F?style=for-the-badge&logo=python&logoColor=A9C8F1"
+  },
+  {
+    "name": "rust",
+    "url": "https://img.shields.io/badge/Rust-24344F?style=for-the-badge&logo=rust&logoColor=A9C8F1"
+  },
+  {
+    "name": "sqlite",
+    "url": "https://img.shields.io/badge/SQLite-24344F?style=for-the-badge&logo=sqlite&logoColor=A9C8F1"
+  },
+  {
+    "name": "linkedin",
+    "url": "https://img.shields.io/badge/LinkedIn-176D8A?style=for-the-badge"
+  },
+  {
+    "name": "huggingface-profile",
+    "url": "https://img.shields.io/badge/Hugging_Face-24344F?style=for-the-badge&logo=huggingface&logoColor=A9C8F1"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://img.shields.io/badge/TensorFlow-173948?style=for-the-badge&logo=tensorflow&logoColor=83D4EA"
+  },
+  {
+    "name": "git",
+    "url": "https://img.shields.io/badge/Git-24344F?style=for-the-badge&logo=git&logoColor=A9C8F1"
+  }
+]

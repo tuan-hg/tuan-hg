@@ -42,5 +42,9 @@
   {
     "name": "git",
     "url": "https://img.shields.io/badge/Git-24344F?style=for-the-badge&logo=git&logoColor=A9C8F1"
+  },
+  {
+    "name": "numpy",
+    "url": "https://img.shields.io/badge/NumPy-173948?style=for-the-badge&logo=numpy&logoColor=83D4EA"
   }
 ]

@@ -4,10 +4,10 @@
 
 <p><strong>AI systems · Applied ML · Agent tooling</strong></p>
 
-<p>I build practical AI tools around useful context, local inference, and reliable behavior.</p>
+<p>I build AI tools and turn model experiments into working software.</p>
 
-<p>I’m interested in how AI agents reason, use memory, and learn from feedback.<br>
-I like learning through research and hands-on experiments, then turning useful ideas into working tools.</p>
+<p>I’m curious about how agents reason, use memory, and learn from feedback.<br>
+I learn by reading research, testing ideas, and building tools I can use.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/tnh0527/"><img src="assets/linkedin.svg" alt="LinkedIn" height="26"></a>
@@ -23,11 +23,21 @@ I like learning through research and hands-on experiments, then turning useful i
 - **Agent memory** — persistent context, traceable sources, and reversible corrections.
 
 <p>
-  <img src="assets/pytorch.svg" alt="PyTorch" height="26">
-  <img src="assets/tensorflow.svg" alt="TensorFlow" height="26">
-  <img src="assets/huggingface.svg" alt="Hugging Face" height="26">
-  <img src="assets/onnx.svg" alt="ONNX" height="26">
+  <picture><img src="assets/pytorch.svg" alt="PyTorch" height="26"></picture>
+  <picture><img src="assets/tensorflow.svg" alt="TensorFlow" height="26"></picture>
+  <picture><img src="assets/huggingface.svg" alt="Hugging Face" height="26"></picture>
+  <picture><img src="assets/onnx.svg" alt="ONNX" height="26"></picture>
+  <picture><img src="assets/numpy.svg" alt="NumPy" height="26"></picture>
 </p>
+
+<details>
+<summary><strong>Explore my model work</strong></summary>
+
+- [**EmbeddingGemma**](https://huggingface.co/Daecore/embeddinggemma-300m-memory-ft-v2) — fine-tuned embeddings for memory retrieval.
+- [**Ettin**](https://huggingface.co/Daecore/ettin-150m-memory-reranker-ft-v1) — a cross-encoder that reranks retrieved passages.
+- [**GLiClass**](https://huggingface.co/Daecore/gliclass-knowledge-classifier-v2) — knowledge classification for agent memory.
+
+</details>
 
 ## Engineering for AI
 
@@ -36,11 +46,11 @@ I like learning through research and hands-on experiments, then turning useful i
 - **Reliability & privacy** — encrypted storage, integrity checks, and recovery.
 
 <p>
-  <img src="assets/python.svg" alt="Python" height="26">
-  <img src="assets/rust.svg" alt="Rust" height="26">
-  <img src="assets/sqlite.svg" alt="SQLite" height="26">
-  <img src="assets/mcp.svg" alt="Model Context Protocol" height="26">
-  <img src="assets/git.svg" alt="Git" height="26">
+  <picture><img src="assets/python.svg" alt="Python" height="26"></picture>
+  <picture><img src="assets/rust.svg" alt="Rust" height="26"></picture>
+  <picture><img src="assets/sqlite.svg" alt="SQLite" height="26"></picture>
+  <picture><img src="assets/mcp.svg" alt="Model Context Protocol" height="26"></picture>
+  <picture><img src="assets/git.svg" alt="Git" height="26"></picture>
 </p>
 
-<p align="center"><sub>For engineering opportunities: <a href="https://www.linkedin.com/in/tnh0527/">LinkedIn</a> · <a href="mailto:tuanhoang571839@gmail.com">Email</a></sub></p>
+<p align="center"><sub>Open to AI/ML engineering opportunities · <a href="https://www.linkedin.com/in/tnh0527/">LinkedIn</a> · <a href="mailto:tuanhoang571839@gmail.com">Email</a></sub></p>

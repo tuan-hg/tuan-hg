@@ -1,13 +1,12 @@
 <div align="center">
 
-<h1>Tuan Hoang</h1>
+<h1>Hi, I'm Tuan</h1>
 
 <p><strong>AI systems · Applied ML · Agent tooling</strong></p>
 
 <p>I build AI tools and turn model experiments into working software.</p>
 
-<p>I’m curious about how agents reason, use memory, and learn from feedback.<br>
-I learn by reading research, testing ideas, and building tools I can use.</p>
+<p>I'm interested in helping AI more useful and evolve beyond its native capabilities through systems that carry context forward, build on experience, and help people work through problems over time. My focus is turning promising ideas into working tools and measurable results.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/tnh0527/"><img src="assets/linkedin.svg" alt="LinkedIn" height="26"></a>
@@ -53,4 +52,4 @@ I learn by reading research, testing ideas, and building tools I can use.</p>
   <picture><img src="assets/git.svg" alt="Git" height="26"></picture>
 </p>
 
-<p align="center"><sub>Open to AI/ML engineering opportunities · <a href="https://www.linkedin.com/in/tnh0527/">LinkedIn</a> · <a href="mailto:tuanhoang571839@gmail.com">Email</a></sub></p>
+<p align="center"><sub>Open to opportunities · <a href="https://www.linkedin.com/in/tnh0527/">LinkedIn</a> · <a href="mailto:tuanhoang571839@gmail.com">Email</a></sub></p>
